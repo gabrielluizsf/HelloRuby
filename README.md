@@ -2,8 +2,8 @@
 
 [![Author](https://img.shields.io/badge/author-GabrielLuiz-191F2B?style=flat-square)](https://github.com/GabrielLuizSF)
 [![Languages](https://img.shields.io/github/languages/count/GabrielLuizSF/HelloRuby._.?color=%23191F2B&style=flat-square)](#)
-## How to install node
-[Download Ruby](https://www.ruby-lang.org/en/downloads/?target="_blank") 
+## How to install ruby
+[Download Ruby](https://www.ruby-lang.org/en/downloads/") 
 
 
 ## How to run file ?
